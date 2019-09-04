@@ -104,6 +104,10 @@ of ric actions. In other words, you can use this tool to send any action to the 
 History Log
 =============
 
+- 1.0.1 -- 2019-09-04
+
+    - fix error method not existing
+    
 - 1.0.0 -- 2019-09-03
 
     - initial commit
