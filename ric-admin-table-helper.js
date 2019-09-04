@@ -100,7 +100,7 @@ if ('undefined' === typeof RicAdminTableHelper) {
                                 } else if ('success' === type) {
                                     $this.options.onServerSuccess(actionId, response);
                                 } else {
-                                    $this.error("Unknown response type from the server.")
+                                    $this.error("Unknown response type from the server.");
                                 }
                             },
                             dataType: "json",
